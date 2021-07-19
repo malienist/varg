@@ -1,7 +1,7 @@
 # varg
 Decryptor tool for AES-encrypted payloads
 
-![alt text](https://github.com/vithakur/varg/images/varh.png)
+![alt text](https://github.com/vithakur/varg/blob/main/images/varh.png)
 
 ## What is Varg?
 Varg is a tool written in PowerShell that helps you decrypt data that has been encrypted using AES encryption. The most common application we see in the cyberSec world is malicious scripts that are dropped on victim machines in the for of encrypted payloads that execute malicious code once decrypted.
